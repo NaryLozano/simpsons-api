@@ -1,5 +1,5 @@
 {
-  "docs": [
+  "characters": [
     {
       "_id": "63e2beaee6c69920933ff310",
       "Nombre": "Marge Simpson",
@@ -4517,14 +4517,5 @@
       "Estado": "Vivo",
       "Ocupacion": "Propietario de la planta de energía nuclear de Springfield"
     }
-  ],
-  "totalDocs": 649,
-  "limit": 500,
-  "totalPages": 2,
-  "page": 1,
-  "pagingCounter": 1,
-  "hasPrevPage": false,
-  "hasNextPage": true,
-  "prevPage": null,
-  "nextPage": 2
+  ]
 }
