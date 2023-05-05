@@ -63,7 +63,7 @@
       "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559693/simpsons/250px-Cletus_Spuckler_rvpr9g.png",
       "Genero": "Masculino",
       "Estado": "Vivo",
-      "Ocupacion": "Granjero, trabajador de la construcción"
+      "Ocupacion": "Granjero, trabajador de la construcción. Soy mi mejor amigo"
     },
     {
       "_id": "63e339d9edf49032166db6bc",
@@ -475,7 +475,7 @@
     },
     {
       "_id": "63e4775c7de1feab294269b4",
-      "Nombre": "Manjula Nahasapeemapetilon",
+      "Nombre": "Manjula N.",
       "Historia": "Manjula Nahasapeemapetilon es la esposa de Apu y madre de sus octillizos ",
       "Imagen": "https://static.simpsonswiki.com/images/2/28/Manjula_Nahasapeemapetilon.png",
       "Genero": "Femenino",
@@ -484,7 +484,7 @@
     },
     {
       "_id": "63e477937de1feab294269de",
-      "Nombre": "Sanjay Nahasapeemapetilon",
+      "Nombre": "Sanjay N.",
       "Historia": "Sanjay Nahasapeemapetilon es el hermano de Apu .",
       "Imagen": "https://static.simpsonswiki.com/images/thumb/4/46/Sanjay_Nahasapeemapetilon.png/250px-Sanjay_Nahasapeemapetilon.png",
       "Genero": "Masculino",
@@ -812,7 +812,7 @@
     },
     {
       "_id": "63e3d2a2958741730f865753",
-      "Nombre": "Apu Nahasapeemapetilon",
+      "Nombre": "Apu N.",
       "Historia": "Apu Nahasapeemapetilon , Ph.D., anteriormente Slime Q Slimedog ,es el propietario de Kwik-E-Mart , la tienda de conveniencia local y es un buen amigo de Homer Simpson .",
       "Imagen": "https://static.simpsonswiki.com/images/thumb/7/7d/Apu_Nahasapeemapetilon.png/200px-Apu_Nahasapeemapetilon.png",
       "Genero": "Masculino",
