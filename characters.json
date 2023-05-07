@@ -1,6 +1,15 @@
 {
   "characters": [
     {
+      "_id": "63e338abedf49032166da2e6",
+      "Nombre": "Cletus",
+      "Historia": "Cletus Del Roy Montfort Bigglesworth Spuckler , también conocido como Cletus the Slack-Jawed Yokel , es un campesino sureño estereotípico con una personalidad afable, es delgado y generalmente se lo representa con un par de jeans. Reside con su familia en la Ruta Rural 9 en Springfield .",
+      "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559693/simpsons/250px-Cletus_Spuckler_rvpr9g.png",
+      "Genero": "Masculino",
+      "Estado": "Vivo",
+      "Ocupacion": "Granjero, trabajador de la construcción. Soy mi mejor amigo"
+    },
+    {
       "_id": "63e2beaee6c69920933ff310",
       "Nombre": "Marge Simpson",
       "Historia": "Marjorie Marge B. Simpson ,  (de soltera Bouvier ; nacida el 19 de marzo  ), es la feliz ama de casa y madre de tiempo completo de la familia Simpson . Con su esposo Homer , tiene tres hijos: Bart , Lisa y Maggie Simpson . Marge es la fuerza moralista en su familia y, a menudo, proporciona una voz fundamental en medio de las payasadas de su familia al tratar de mantener el orden en la casa de los Simpson. Aparte de sus deberes en el hogar, Marge coqueteó brevemente con una serie de carreras que van desde oficial de policía hasta activista contra la violencia.",
@@ -55,15 +64,6 @@
       "Estado": "Vivo",
       "Ocupacion": "Personalidad de televisión",
       "updatedAt": "2023-03-13T00:30:55.514Z"
-    },
-    {
-      "_id": "63e338abedf49032166da2e6",
-      "Nombre": "Cletus",
-      "Historia": "Cletus Del Roy Montfort Bigglesworth Spuckler , también conocido como Cletus the Slack-Jawed Yokel , es un campesino sureño estereotípico con una personalidad afable, es delgado y generalmente se lo representa con un par de jeans. Reside con su familia en la Ruta Rural 9 en Springfield .",
-      "Imagen": "https://res.cloudinary.com/dglqojivj/image/upload/v1682559693/simpsons/250px-Cletus_Spuckler_rvpr9g.png",
-      "Genero": "Masculino",
-      "Estado": "Vivo",
-      "Ocupacion": "Granjero, trabajador de la construcción. Soy mi mejor amigo"
     },
     {
       "_id": "63e339d9edf49032166db6bc",
